@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello! I'm Zhang San
 
-<!--
-**Superjames327/Superjames327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Biomedical Engineering @ Tsinghua University  
+🔬 Focused on medical imaging, AI in healthcare, and deep learning  
+🌱 Currently working on MRI tumor segmentation using deep neural networks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+- Python, MATLAB, C++
+- PyTorch, TensorFlow, OpenCV
+- Git, LaTeX, Linux
+
+---
+
+## 🚀 Projects
+
+📌 MRI Tumor Segmentation (PyTorch)  
+📌 Lung CT Nodule Classification (coming soon)  
+📌 Academic CV in LaTeX
+
+---
+
+## 🏆 Honors & Publications
+
+- National Scholarship (2023)  
+- Internet+ Innovation Contest – 2nd Prize (2022)  
+- 1st Author: "MRI Segmentation with U-Net" – Submitted to MICCAI 2025
+
+---
+
+## 📫 Let's connect!
+
+- 📧 Email: zhangsan@example.com  
+- 🌐 LinkedIn: [linkedin.com/in/zhangsan](https://linkedin.com/in/zhangsan)  
+- 📄 Resume: [Download PDF](https://example.com/resume.pdf)
+
+---
+
+> “Make it simple, but significant.” ✨
